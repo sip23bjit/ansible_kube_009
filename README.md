@@ -11,6 +11,6 @@ worker IP
 
 master IP
 
-[workers IP]
+[workers]
 
 worker IP
